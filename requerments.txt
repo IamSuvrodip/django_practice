@@ -1,2 +1,5 @@
 https://chaicode.com/blogs/getting-started-with-django
+pip install Django
 
+// set virtual environment
+py -m venv .venv 
