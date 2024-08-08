@@ -3,3 +3,4 @@ pip install Django
 
 // set virtual environment
 py -m venv .venv 
+// install uv
