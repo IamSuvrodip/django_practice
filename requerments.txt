@@ -1,1 +1,2 @@
+https://chaicode.com/blogs/getting-started-with-django
 
