@@ -10,3 +10,5 @@ uv venv
 // activate virtual environment
 // install uv in virtual environment
 uv venv
+
+// activate virtual environment
