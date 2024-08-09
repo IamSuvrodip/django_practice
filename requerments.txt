@@ -16,3 +16,4 @@ uv venv
 
 // deactivate virtual environment
 deactivate
+// any packages you want to install
