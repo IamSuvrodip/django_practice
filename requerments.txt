@@ -16,5 +16,7 @@ uv venv
 
 // deactivate virtual environment
 deactivate
+
 // any packages you want to install
 uv pip install package_name
+uv pip install Django
