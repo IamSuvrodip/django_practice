@@ -12,3 +12,4 @@ uv venv
 uv venv
 
 // activate virtual environment
+.venv\Scripts\activate
