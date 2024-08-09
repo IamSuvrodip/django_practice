@@ -15,3 +15,4 @@ uv venv
 .venv\Scripts\activate
 
 // deactivate virtual environment
+deactivate
