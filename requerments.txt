@@ -1,7 +1,7 @@
 ********************************
 for html suggestions
 ctrl + ,
-
+search emmet
 
 https://chaicode.com/blogs/getting-started-with-django
 pip install Django
