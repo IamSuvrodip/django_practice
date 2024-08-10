@@ -1,3 +1,6 @@
+********************************
+
+
 https://chaicode.com/blogs/getting-started-with-django
 pip install Django
 
