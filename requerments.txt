@@ -4,6 +4,7 @@ ctrl + ,
 search emmet
 go to Emmet: Include Languages
 and now click add item 
+write below item django-html 
 
 https://chaicode.com/blogs/getting-started-with-django
 pip install Django
