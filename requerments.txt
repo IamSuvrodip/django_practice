@@ -1,5 +1,6 @@
 ********************************
 for html suggestions
+ctrl + ,
 
 
 https://chaicode.com/blogs/getting-started-with-django
