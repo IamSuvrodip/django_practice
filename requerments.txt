@@ -2,6 +2,7 @@
 for html suggestions
 ctrl + ,
 search emmet
+go to Emmet: Include Languages
 
 https://chaicode.com/blogs/getting-started-with-django
 pip install Django
