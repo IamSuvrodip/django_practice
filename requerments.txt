@@ -39,3 +39,4 @@ startproject project_name
 startapp
 
 cd project_name
+ls
