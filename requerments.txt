@@ -46,3 +46,6 @@ manage.py
 python manage.py runserver
 // we also run it in different port numbers
 python manage.py runserver any port_number /// like 8000, 8001 etc
+
+
+in projectfile make views.py file
