@@ -40,3 +40,5 @@ startapp
 
 cd project_name
 ls
+manage.py
+
