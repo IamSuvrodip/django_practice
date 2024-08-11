@@ -37,3 +37,5 @@ django-admin startproject project_name
 startproject project_name
 
 startapp
+
+cd project_name
