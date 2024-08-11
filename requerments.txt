@@ -44,3 +44,4 @@ manage.py
 
 // run python file
 python manage.py runserver
+// we also run it in different port numbers
