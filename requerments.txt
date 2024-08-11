@@ -34,3 +34,4 @@ uv pip install Django
 
 django-admin
 django-admin startproject project_name
+startproject project_name
