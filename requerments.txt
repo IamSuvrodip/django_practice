@@ -42,3 +42,4 @@ cd project_name
 ls
 manage.py
 
+// run python file
