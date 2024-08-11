@@ -43,3 +43,4 @@ ls
 manage.py
 
 // run python file
+python manage.py runserver
