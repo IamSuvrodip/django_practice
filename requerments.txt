@@ -51,3 +51,4 @@ python manage.py runserver any port_number /// like 8000, 8001 etc
 in projectfile make views.py file
 user ------> request ------> urls.py ------> views.py ------> response
 all logics and operations write  in views.py file
+make a templates folder in project
