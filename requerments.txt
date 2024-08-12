@@ -60,4 +60,6 @@ in static folder make or create all css ,js files
 
 render a template file in project
 
+def home(request):
+
 in views.py file write [from django.shortcuts import render] 
