@@ -58,3 +58,4 @@ make a static folder in project
 in templates folder make or create all html files
 in static folder make or create all css ,js files
 
+render a template file in project
