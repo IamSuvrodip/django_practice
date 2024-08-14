@@ -68,4 +68,5 @@ in views.py file write [from django.shortcuts import render]
     return render(request, 'index.html')
 
 now you see a error because hum bataya nehi hain jo templates file hain oh kaha hain
+add in settings file ---->  "DIRS": ['templates'],
 
