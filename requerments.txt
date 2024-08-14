@@ -65,3 +65,4 @@ def home(request):
 in views.py file write [from django.shortcuts import render] 
 
     ###return HttpResponse("Suvrodip Chakroborty")
+    return render(request, 'index.html')
