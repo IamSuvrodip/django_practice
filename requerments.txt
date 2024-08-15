@@ -96,7 +96,7 @@ under this line STATIC_URL = "static/" write this line
 practice.........
 
 
-
+//////////////// Day2 //////////////////
 
 
 
