@@ -89,6 +89,7 @@ top of the html file write {% load static %}
 
 solve this error "GET /static/style.css HTTP/1.1" 404 1786
 
+write on the top in settings file ------> import os
 
 
 
