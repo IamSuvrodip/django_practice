@@ -84,6 +84,8 @@ make a file in static folder style.css
 in html file write     <link rel="stylesheet" href="{% %}" />
                        <link rel="stylesheet" href="{% static 'style.css' %}" />
 
+you see error Invalid block tag on line 9: 'static'. Did you forget to register or load this tag?
+
 
 
 
