@@ -85,6 +85,7 @@ in html file write     <link rel="stylesheet" href="{% %}" />
                        <link rel="stylesheet" href="{% static 'style.css' %}" />
 
 you see error Invalid block tag on line 9: 'static'. Did you forget to register or load this tag?
+top of the html file write {% load static %}
 
 
 
