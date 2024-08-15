@@ -91,6 +91,7 @@ solve this error "GET /static/style.css HTTP/1.1" 404 1786
 
 write on the top in settings file ------> import os
 under this line STATIC_URL = "static/" write this line
+        STATICFILES_DIRS = [os.path.join(BASE_DIR, "static")]
 
 
 
