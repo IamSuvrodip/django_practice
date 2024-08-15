@@ -81,3 +81,30 @@ urlpatterns = [
 
 make a file in static folder style.css
 <link rel="stylesheet" href="../../static/style.css" />---------------XX
+in html file write     <link rel="stylesheet" href="{% %}" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
