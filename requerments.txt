@@ -109,6 +109,7 @@ My first name is {{ first_name }}. My last name is {{ last_name }}
 install django extainsion
 
 make apps
+write in terminal python manage.py startapp app_name
 
 
 
