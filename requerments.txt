@@ -100,6 +100,7 @@ practice.........
 **********jinja2**********
 ********** make apps********
 ********* django documentation********
+go to the templates and you will see the several templates engines
 
 
 
