@@ -114,7 +114,15 @@ write in terminal python manage.py startapp app_name
 first thing is after creataion a app projectko samja dena ek neya app cerate huya hain
 
 now go to settings.py 
-
+INSTALLED_APPS = [
+    "django.contrib.admin",
+    "django.contrib.auth",
+    "django.contrib.contenttypes",
+    "django.contrib.sessions",
+    "django.contrib.messages",
+    "django.contrib.staticfiles",
+    ****"new_app_name",****
+]
 
 
 
