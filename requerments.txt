@@ -102,6 +102,8 @@ practice.........
 ********* django documentation********
 go to the templates and you will see the several templates engines
 1.Django template language(DTL) popular is jinja
+Variables
+My first name is {{ first_name }}. My last name is {{ last_name }}
 
 
 
