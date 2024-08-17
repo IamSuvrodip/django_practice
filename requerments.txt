@@ -101,6 +101,7 @@ practice.........
 ********** make apps********
 ********* django documentation********
 go to the templates and you will see the several templates engines
+1.Django template language(DTL) popular is jinja
 
 
 
