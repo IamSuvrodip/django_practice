@@ -135,6 +135,9 @@ now you see there dont have a urls.py file so go to your project folder
 open urls.py file and copy from to end all paths
 
 
+now projects urls.py files write from django.urls import path,include
+new keyword include
+
 
 
 
