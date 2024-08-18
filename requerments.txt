@@ -152,7 +152,7 @@ urlpatterns = [
 
 ]
 
-
+now we know about jinja power
 
 
 
