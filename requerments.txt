@@ -138,6 +138,8 @@ open urls.py file and copy from to end all paths
 now projects urls.py files write from django.urls import path,include
 new keyword include
 
+and next new line add in urlpatterns path("address or which is search like chai/", include('app_name.urls'), name="chai"),
+
 
 
 
