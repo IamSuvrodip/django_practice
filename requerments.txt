@@ -140,6 +140,7 @@ new keyword include
 
 and next new line add in urlpatterns path("address or which is search like chai/", include('app_name.urls'), name="chai"),
 
+now open apps urls.py file then first remove admin line
 
 
 
