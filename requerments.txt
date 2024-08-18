@@ -131,6 +131,8 @@ and render it in views.py file
 like
 def all_chai(request):
     return render(request, 'suvro/all_chai.html')
+now you see there dont have a urls.py file so go to your project folder
+open urls.py file and copy from to end all paths
 
 
 
