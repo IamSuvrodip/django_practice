@@ -147,7 +147,10 @@ write--------->
 from django.urls import path
 from . import views
 
+urlpatterns = [
+    path("", views.funtions name which is defined in views.py file, name="funtions name"),
 
+]
 
 
 
