@@ -124,6 +124,7 @@ INSTALLED_APPS = [
     ****"new_app_name",****
 ]
 
+in new app make a templates folder and in this templates folder make a folder same as your app name
 
 
 
