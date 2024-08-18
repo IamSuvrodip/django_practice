@@ -128,6 +128,9 @@ in new app make a templates folder and in this templates folder make a folder sa
 in this templates ---->app folder make a html file
 
 and render it in views.py file
+like
+def all_chai(request):
+    return render(request, 'suvro/all_chai.html')
 
 
 
