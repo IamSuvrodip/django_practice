@@ -144,6 +144,8 @@ now open apps urls.py file then first remove admin line
 
 write---------> 
 
+from django.urls import path
+from . import views
 
 
 
