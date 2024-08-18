@@ -125,6 +125,7 @@ INSTALLED_APPS = [
 ]
 
 in new app make a templates folder and in this templates folder make a folder same as your app name
+in this templates ---->app folder make a html file
 
 
 
