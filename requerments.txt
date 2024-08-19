@@ -161,6 +161,7 @@ tittles are different so write block
 
 overwrite this title
 
+{% load static %}
 
 
 
