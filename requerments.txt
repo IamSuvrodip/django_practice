@@ -159,6 +159,7 @@ now a basic website staructure make it because all webpage have not different he
 now in template folder make a layout.html file then there 
 tittles are different so write block
 
+overwrite this title
 
 
 
