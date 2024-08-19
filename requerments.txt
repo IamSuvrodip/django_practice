@@ -183,6 +183,10 @@ in index.html file
   Home Page 
 {% endblock %}
 
+{% block content %}
+  <h1>Suvrodip | Home page</h1>
+{% endblock %}
+
 
 
 
