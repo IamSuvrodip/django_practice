@@ -156,6 +156,7 @@ now we know about jinja power
 
 
 now a basic website staructure make it because all webpage have not different heder and footer sections
+now in template folder make a layout.html file then there 
 
 
 
