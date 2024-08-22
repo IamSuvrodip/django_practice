@@ -198,6 +198,7 @@ write below item django-html
 write below value html
 
 //////////////// Day 3 /////////////////////////
+install tailwind in python
 
 
 
