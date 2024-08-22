@@ -193,6 +193,8 @@ for html suggestions
 ctrl + ,
 search emmet
 go to Emmet: Include Languages
+and now click add item 
+
 
 
 
