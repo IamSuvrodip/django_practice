@@ -192,6 +192,8 @@ in index.html file
 for html suggestions
 ctrl + ,
 search emmet
+go to Emmet: Include Languages
+
 
 
 
