@@ -202,6 +202,7 @@ install tailwind in python
 pip install django-tailwind
 
 install tailwind in python in uv
+uv pip install django-tailwind
 
 
 
