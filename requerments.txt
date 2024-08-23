@@ -213,6 +213,7 @@ Audited 1 package in 1ms
 then:-
 it not install then upgrade pip 
 python -m pip install --upgrade pip
+E:\Django\.venv\Scripts\python.exe: No module named pip
 
 
 
