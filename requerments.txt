@@ -209,6 +209,7 @@ uv pip install 'django-tailwind[reload]'
 it show this
 Audited 1 package in 1ms
 
+----------------------------------------
 
 
 
