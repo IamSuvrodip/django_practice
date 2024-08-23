@@ -211,6 +211,7 @@ Audited 1 package in 1ms
 
 ----------------------------------------
 then:-
+it not install then upgrade pip 
 
 
 
