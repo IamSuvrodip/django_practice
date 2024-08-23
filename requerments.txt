@@ -201,6 +201,8 @@ write below value html
 install tailwind in python
 pip install django-tailwind
 
+install tailwind in python in uv
+
 
 
 
