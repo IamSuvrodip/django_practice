@@ -216,6 +216,7 @@ python -m pip install --upgrade pip
 E:\Django\.venv\Scripts\python.exe: No module named pip
 
 then run  
+python -m ensurepip --upgrade
 
 
 
