@@ -221,6 +221,7 @@ python -m ensurepip --upgrade
 now run
 pip install 'django-tailwind[reload]' 
 --------------------------------------------
+in settings.py file add app
 
 
 
