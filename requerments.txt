@@ -222,6 +222,8 @@ now run
 pip install 'django-tailwind[reload]' 
 --------------------------------------------
 in settings.py file add app
+INSTALLED_APPS = ["tailwind",]
+
 
 
 
