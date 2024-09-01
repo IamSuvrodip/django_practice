@@ -230,6 +230,8 @@ in terminal write this line
 python manage.py tailwind init
 
 app_name (theme): choose app name
+prefer bidefault name is theme just enter
+
 
 
 
