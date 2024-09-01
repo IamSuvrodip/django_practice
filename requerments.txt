@@ -227,6 +227,8 @@ INSTALLED_APPS = ["tailwind",]
 --------------------------------------
 --------------------------------------
 in terminal write this line
+python manage.py tailwind init
+
 
 
 
