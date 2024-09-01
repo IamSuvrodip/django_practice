@@ -226,6 +226,7 @@ INSTALLED_APPS = ["tailwind",]
 
 --------------------------------------
 --------------------------------------
+in terminal write this line
 
 
 
