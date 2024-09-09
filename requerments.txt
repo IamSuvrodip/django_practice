@@ -241,3 +241,4 @@ some configuration write by own...
 
 in settings.py file
 TAILWIND_APP_NAME = 'choose app name' # This is the name of the app that will be used to generate the tailwind files
+you choose bidefault name is theme so there write theme
