@@ -236,3 +236,4 @@ INSTALLED_APPS = ["choose app name",]
 but you choose bidefault name theme so write in settings.py file 
 INSTALLED_APPS = ["theme",]
 ---------------------------------------
+some configuration write by own...
