@@ -259,3 +259,4 @@ python manage.py tailwind install
 
 your npm not updated then update your npm
 npm install -g npm@version_name
+---------------------------------------------
