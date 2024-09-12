@@ -252,3 +252,4 @@ install theme
 
 pip install nodejs
 pip install npm
+where npm
