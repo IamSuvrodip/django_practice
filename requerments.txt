@@ -251,3 +251,4 @@ theme folder create but not run
 install theme
 
 pip install nodejs
+pip install npm
