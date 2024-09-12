@@ -256,3 +256,5 @@ where npm
 in settings.py
 NPM_BIN_PATH = r"C:\Program Files\nodejs\npm.cmd"
 python manage.py tailwind install
+
+your npm not updated then update your npm
