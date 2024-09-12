@@ -254,3 +254,4 @@ pip install nodejs
 pip install npm
 where npm
 in settings.py
+NPM_BIN_PATH = r"C:\Program Files\nodejs\npm.cmd"
