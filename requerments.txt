@@ -248,4 +248,5 @@ now we run two server with together so next line for this issue
 INTERNAL_IPS = ['127.0.0.1']   ******
 --------------------------------------------
 theme folder create but not run
+install theme
 
