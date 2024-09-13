@@ -261,3 +261,6 @@ your npm not updated then update your npm
 npm install -g npm@version_name
 ---------------------------------------------
 any webpage you inject tailwind css then write those line
+
+top of your html file write
+
