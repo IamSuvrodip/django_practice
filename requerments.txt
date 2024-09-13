@@ -270,4 +270,6 @@ in head tag write
 ----------------------------------------------------------------
 
 install extaintion in vs code for tailwind css suggetions Tailwind CSS IntelliSense
-then edit your css or html file in tailwind css
+then edit your css or html file in tailwind CSS
+
+----------------------------------------------------------------
