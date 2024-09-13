@@ -273,3 +273,4 @@ install extaintion in vs code for tailwind css suggetions Tailwind CSS IntelliSe
 then edit your css or html file in tailwind CSS
 
 ----------------------------------------------------------------
+open a new terminal and activate vertual environment
