@@ -263,4 +263,4 @@ npm install -g npm@version_name
 any webpage you inject tailwind css then write those line
 
 top of your html file write
-
+{% load static tailwind_tags %}
