@@ -274,3 +274,4 @@ then edit your css or html file in tailwind CSS
 
 ----------------------------------------------------------------
 open a new terminal and activate vertual environment
+run
