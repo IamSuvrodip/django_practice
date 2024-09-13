@@ -267,3 +267,4 @@ top of your html file write
 
 in head tag write 
 {% tailwind_css %}
+----------------------------------------------------------------
