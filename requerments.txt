@@ -266,3 +266,4 @@ top of your html file write
 {% load static tailwind_tags %}
 
 in head tag write 
+{% tailwind_css %}
