@@ -268,3 +268,5 @@ top of your html file write
 in head tag write 
 {% tailwind_css %}
 ----------------------------------------------------------------
+
+install extaintion in vs code for tailwind css suggetions Tailwind CSS IntelliSense
