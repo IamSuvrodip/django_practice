@@ -291,3 +291,6 @@ i create hot relode
 
 in settings.py
 INSTALLED_APPS = [
+    .......
+    "django_browser_reload",
+]
