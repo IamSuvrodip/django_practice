@@ -283,3 +283,6 @@ restart your main terminal
 in production level 
 python manage.py tailwind build 
 because all time not start tailwind
+
+------------------------------------------
+
