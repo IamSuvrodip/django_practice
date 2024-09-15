@@ -277,3 +277,4 @@ open a new terminal and activate vertual environment
 run
 for your help for understanding you rename this terminal and color
 .venv\Scripts\activate 
+python manage.py tailwind start
