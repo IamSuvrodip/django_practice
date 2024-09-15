@@ -290,3 +290,4 @@ har time relode my webpage manually then i show changes thats why
 i create hot relode 
 
 in settings.py
+INSTALLED_APPS = [
