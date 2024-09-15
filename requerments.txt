@@ -281,3 +281,4 @@ python manage.py tailwind start
 restart your main terminal
 
 in production level 
+python manage.py tailwind build 
