@@ -279,3 +279,5 @@ for your help for understanding you rename this terminal and color
 .venv\Scripts\activate 
 python manage.py tailwind start
 restart your main terminal
+
+in production level 
