@@ -294,3 +294,4 @@ INSTALLED_APPS = [
     .......
     "django_browser_reload",
 ]
+MIDDLEWARE = [
