@@ -287,3 +287,4 @@ because all time not start tailwind
 ------------------------------------------
 
 har time relode my webpage manually then i show changes thats why
+i create hot relode 
