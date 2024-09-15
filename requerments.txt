@@ -275,3 +275,4 @@ then edit your css or html file in tailwind CSS
 ----------------------------------------------------------------
 open a new terminal and activate vertual environment
 run
+for your help for understanding you rename this terminal and color
