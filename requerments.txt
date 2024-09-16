@@ -308,3 +308,5 @@ from django.urls import include, path
 path("__reload__/", include("django_browser_reload.urls")),
 this is vary heavy url
 but when i use build then not to use hot reload 
+
+------------------------------
