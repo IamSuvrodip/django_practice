@@ -302,3 +302,4 @@ MIDDLEWARE = [
 ----------------------------------------------------------------
 for activate hot reload
 in urls.py 
+ekdum lastme add karna hoga
