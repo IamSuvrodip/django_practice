@@ -303,4 +303,6 @@ MIDDLEWARE = [
 for activate hot reload
 in urls.py 
 ekdum lastme add karna hoga
+
 from django.urls import include, path
+path("__reload__/", include("django_browser_reload.urls")),
