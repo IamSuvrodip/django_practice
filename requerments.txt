@@ -312,3 +312,4 @@ but when i use build then not to use hot reload
 ------------------------------
 
 solve this error
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
