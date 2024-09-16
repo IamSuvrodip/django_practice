@@ -301,3 +301,4 @@ MIDDLEWARE = [
 
 ----------------------------------------------------------------
 for activate hot reload
+in urls.py 
